@@ -1,0 +1,7 @@
+export const Offline = "Could not connect to Internet..."
+export const OfflineColor = "bg-red-600"
+export const Online = "We are back..."
+export const OnlineColor = "bg-green-600"
+export const home = "Home"
+export const about = "About"
+export const contact = "Contact"

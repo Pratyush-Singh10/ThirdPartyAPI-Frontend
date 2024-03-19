@@ -1,0 +1,7 @@
+export const LoginPath = '/'
+export const HomePath = '/home'
+export const AboutPath = '/about'
+export const ContactPath = '/contact'
+export const LoginEP = '/api/v1/auth/login'
+export const Image = '/api/v1/image/getImages'
+export const ImageData = '/api/v1/image/getImagesV2'
